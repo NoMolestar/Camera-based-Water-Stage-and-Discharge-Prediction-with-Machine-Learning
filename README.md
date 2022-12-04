@@ -1,5 +1,5 @@
 
-# System Predictor of Freshwater Body Variables
+# Images-based System Predictor of Freshwater Body Variables
 A system that predicts the water level and flow of the North Platte River located in Wyoming, Nebraska, based on images of the river.
 
 ## BMT Development Team - Advanced Artificial Intelligence for Data Science
