@@ -1,8 +1,8 @@
 
-# Driving-Behavior-IA
-System to predict if it's dangerous for someone to drive based on their behavior.
+# System Predictor of Freshwater Body Variables
+A system that predicts the water level and flow of the North Platte River located in Wyoming, Nebraska, based on images of the river.
 
-## Team BMT - Advanced artificial intelligence for data science
+## BMT Development Team - Advanced Artificial Intelligence for Data Science
 <p align="center">
     <img src="https://github.com/NoMolestar/Driving-Behavior-IA/blob/main/.github/images/LogoBMT.PNG" alt="logo-bmt" width="400"/>
 </p>
@@ -11,7 +11,7 @@ System to predict if it's dangerous for someone to drive based on their behavior
 - 🪟 [Wall of Work - Project](https://github.com/users/NoMolestar/projects/1)
 - 🪲 [Issue Tracker](https://github.com/NoMolestar/Driving-Behavior-IA/issues)
 - 📑 [Change management Policy](.github/CONTRIBUTING.md)
-- 🏛️ [Wiki - Office](https://github.com/NoMolestar/Driving-Behavior-IA/wiki)
+- 🏛️ [Wiki - Office](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/wiki)
     - Introducción
     - Tratamiento Inicial de los datos
     - Modelos Implementados
