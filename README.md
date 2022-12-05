@@ -13,14 +13,14 @@ A system that predicts the water level and flow of the North Platte River locate
 - 📑 [Change management Policy](.github/CONTRIBUTING.md)
 - 🏛️ [Corrections](Corrections.md)
 
-# Reporte en LaTex
+# LaTeX Report
 [https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/documentation.tex](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Report.tex)
 
-# Reporte en PDF
+# PDF Report
 [https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Caudales.pdf](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Investigation_Report.pdf)
 
-# Modelo Principal
+# Main Model (Regressor)
 [https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Code/Prediction_Regressor_BMT.ipynb](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Code/Prediction_Regressor_BMT.ipynb)
 
-# Modelo Clasificador
+# Clasification Model
 [https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Code/Clasification_Model_BMT.ipynb](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning/blob/main/Code/Clasification_Model_BMT.ipynb)
